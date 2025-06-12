@@ -5,11 +5,15 @@ A demo of MaterialUI's Autocomplete component and the Fetch API
 ## Features
 
 🔃 **Fetch API**
+
     Demonstrates async data handling, loading state, state management, commonly used array methods (map, sort)
 
 💻 **Material UI**
+
     In addition to Autocomplete; uses Box, Container, ThemeProvider and Typography for styling
+
 💡 **Typescript**
+
 
 ## 🚀 Startup Instructions
 
