@@ -27,12 +27,12 @@ TYPES!!!!
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/ixlives/leidos-todo.git
+   git clone https://github.com/ixlives/experient-takehome.git
 ```
 2. Navigate to the project directory
 
 ```bash
-   cd leidos todo
+   cd experient-takehome
 ```
 
 3. Install dependencies
